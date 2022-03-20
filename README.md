@@ -1,6 +1,6 @@
 # python SSH automation tool in linux
 This is a app developed in python that tests connections for multiple linux servers and then extracts information ( similar to Ansible concept ).
-The app uses subprocess module for ssh, no modules are required to install. There are specific modules for ssh that can be used ( like paramiko ), but the script was made to empphasize capabilities of subprocess module
+The app uses subprocess module for ssh, no modules are required to install. There are specific modules for ssh that can be used ( like paramiko ), but the script was made to emphasize capabilities of subprocess module.
 
 
 
