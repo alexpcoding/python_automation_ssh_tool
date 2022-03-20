@@ -21,5 +21,5 @@ Prerequisites and guidelines
 4.) do not forget to add execution permissions on file : `chmod a+x file`  
 
 Python version
-Editor
+Editor pycharm 2021.3
 ## Examples
