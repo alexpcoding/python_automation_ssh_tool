@@ -16,7 +16,7 @@ Prerequisites and guidelines
 2.) SSH connections must be available with the the servers, either with a user and password or a key ( same credentials for all servers ). Example:
 `./python_ssh_tool.py -p` or `./python_ssh_tool.py -k /some/key`. The script will run only with one of these 2 formats ( by desgin ).  
 3.) hosts.txt file must be populated:  
-![Capture3](https://user-images.githubusercontent.com/95858490/159157280-eefd7fd3-12d7-4165-96fe-ae85a0e0ad83.PNG)
+![Capture3](https://user-images.githubusercontent.com/95858490/159157280-eefd7fd3-12d7-4165-96fe-ae85a0e0ad83.PNG)  
 4.) do not forget to add execution permissions on file : `chmod a+x file`  
 
 Python version
