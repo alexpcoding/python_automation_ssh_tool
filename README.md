@@ -10,12 +10,13 @@ Application options included:
 * op3
 * op4
 
-Prerequisites:  
+Prerequisites and guidelines
   
-1.)   sshpass
-2.)   credentials
-3.)   
-4.) do not forget to add execution permissions on file : `chmod a+x file`
+1.) sshpass must be installaed on main server ( the password will be given from command line )  
+2.) SSH connections must be available with the the servers, either with a user and password or a key ( same credentials for all servers ). Example
+`python_ssh_tool.py -p' or `python_ssh_tool.py -k /some/key'  
+3.)     
+4.) do not forget to add execution permissions on file : `chmod a+x file`  
 
 Python version
 Editor
