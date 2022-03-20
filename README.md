@@ -17,7 +17,7 @@ Prerequisites and guidelines
 `./python_ssh_tool.py -p` or `./python_ssh_tool.py -k /some/key`. The script will run only with one of these 2 formats ( by design ).  
 3. hosts.txt file must be populated:  
 ![Capture3](https://user-images.githubusercontent.com/95858490/159157280-eefd7fd3-12d7-4165-96fe-ae85a0e0ad83.PNG)  
-4. you can use optional argument -l (--limit) : `./python_ssh_tool.py -p -l 192.168.0.5 ` - this will ignore hosts.txt file and use only that specific host 
+4. you can use optional argument **-l (--limit)** : `./python_ssh_tool.py -p -l 192.168.0.5 ` - this will ignore hosts.txt file and use only that specific host 
 5. do not forget to add execution permissions on file : `chmod a+x file`  
 
 Python version
