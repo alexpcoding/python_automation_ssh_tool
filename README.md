@@ -1,5 +1,6 @@
-# python SSH automation tool
-test
+# python SSH automation tool in linux
+This is a app developed in python that extracts information from multiple linux ssh servers ( similar to Ansible concept ).
+
 
 Application options included:
 * op1
