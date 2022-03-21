@@ -27,6 +27,7 @@ Python version : 3.10
 Editor version: Pycharm 2021.3  
 
 ## Examples  
-![Capture](https://user-images.githubusercontent.com/95858490/159234151-1edcfd36-fa93-4c08-8275-2ace6828e6dd.PNG)!
+![Capture](https://user-images.githubusercontent.com/95858490/159234151-1edcfd36-fa93-4c08-8275-2ace6828e6dd.PNG)!![Capture1](https://user-images.githubusercontent.com/95858490/159234530-9ed0e44f-60e3-4581-8039-5b98f1cc81a7.PNG)
+
 
 
