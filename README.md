@@ -23,7 +23,6 @@ Prerequisites and guidelines
 5. use **-h (--help)** for app usage :  
 ![Capture4](https://user-images.githubusercontent.com/95858490/159233164-c281ed55-35ed-403d-ade5-e81b69146d45.PNG)  
 
-7. do not forget to add execution permissions on file : `chmod a+x file`  
 
 Python version : 3.10  
 Editor version: Pycharm 2021.3  
