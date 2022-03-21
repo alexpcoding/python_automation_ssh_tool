@@ -4,11 +4,13 @@ The app uses subprocess module for ssh, no modules are required to install. Ther
 
 
 
-Application options included:
-* op1
-* op2
-* op3
-* op4
+Application overview:  
+* level 3 network connection test
+* port 22 test
+* ssh password and key connection test
+* extract linux server information , ex: memory, space, etc..
+* multiple remote hosts targeted  
+* options/arguments menu driven app  
 
 Prerequisites and guidelines
   
