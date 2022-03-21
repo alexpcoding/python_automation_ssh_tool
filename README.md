@@ -26,4 +26,7 @@ Prerequisites and guidelines
 Python version : 3.10  
 Editor version: Pycharm 2021.3  
 
-## Examples
+## Examples  
+![Capture](https://user-images.githubusercontent.com/95858490/159234151-1edcfd36-fa93-4c08-8275-2ace6828e6dd.PNG)![Capture](https://user-images.githubusercontent.com/95858490/159234196-ee054829-9775-40b0-a578-a97aeed160dc.PNG)![Capture](https://user-images.githubusercontent.com/95858490/159234229-d1110805-b5d9-466a-b4ad-2d8666884379.PNG)
+
+
