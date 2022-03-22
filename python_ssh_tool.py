@@ -4,6 +4,8 @@ import telnetlib
 import argparse
 from getpass import getpass
 
+val = False
+
 
 def title(text):
     print('')
@@ -28,8 +30,9 @@ def port22_check(ip):
         print("\nPORT 22 testing...", end=' ')
         if telnetlib.Telnet(ip, port):
             return "-->" + '\33[92m' + " OK" + '\033[0m'
-    except:
-        return "-->" + '\33[91m' + " FAILED" + '\033[0m'
+    except (ConnectionRefusedError, OSError) as e:
+        print ("-->" + '\33[91m' + " FAILED" + '\033[0m'+"\n")
+        return e
 
 
 def ssh_check_password(ip, password):
