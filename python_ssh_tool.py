@@ -4,8 +4,6 @@ import telnetlib
 import argparse
 from getpass import getpass
 
-val = False
-
 
 def title(text):
     print('')
@@ -31,11 +29,7 @@ def port22_check(ip):
         if telnetlib.Telnet(ip, port):
             return "-->" + '\33[92m' + " OK" + '\033[0m'
     except (ConnectionRefusedError, OSError) as e:
-<<<<<<< HEAD
         print("-->" + '\33[91m' + " FAILED" + '\033[0m' + "\n")
-=======
-        print ("-->" + '\33[91m' + " FAILED" + '\033[0m'+"\n")
->>>>>>> 7dafe9b8ce42236d3262b235da0b199c71d7f8cc
         return e
 
 
