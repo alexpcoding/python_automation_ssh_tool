@@ -10,7 +10,7 @@ Application overview:
 * ssh password and key connection test
 * extract linux server information , ex: memory, space, etc..
 * multiple remote hosts targeted  
-* options/arguments menu driven app  
+* options/arguments driven app  
 
 Prerequisites and guidelines
   
